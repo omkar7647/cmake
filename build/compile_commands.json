@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/omkarpatil/helloworld/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/nish.dir/main.cpp.o -c /home/omkarpatil/helloworld/main.cpp",
+  "file": "/home/omkarpatil/helloworld/main.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/nish.dir/main.cpp.o  -o nish 
